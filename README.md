@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Singh
 - 👀 I’m interested in Learning Technologies
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m a passionate Java Backend Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 872001vishal@gmail.com
 
